@@ -1,5 +1,5 @@
 body{
-    background-color:green;
+    background-color:white;
 }
 #form{
   border-radius: 15px;
@@ -25,4 +25,9 @@ input[type=text],input[type=email],input[type=number], select {
 }
 #comment-div{
   margin-top: 22px;
+}
+.btn{
+  border: none;
+  padding: 5px 13px;
+  
 }

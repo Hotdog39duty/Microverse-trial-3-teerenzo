@@ -1,0 +1,28 @@
+body{
+    background-color:green;
+}
+#form{
+  border-radius: 15px;
+  background-color: yellow;
+  padding: 30px;
+  width: 55%;
+  margin: 0 auto;
+}
+input[type=text],input[type=email],input[type=number], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid yellow (172, 94, 4);
+  border-radius: 9px;
+  box-sizing: border-box;
+}
+#title, #description{
+  text-align: center;
+}
+#comment {
+  width:70%
+}
+#comment-div{
+  margin-top: 22px;
+}
